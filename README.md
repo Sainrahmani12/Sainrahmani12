@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Husain Rahmani 👋</h1>
-<h3 align="center">I'm from Indonesia</h3>
+<h1 align="center">Hi there 👋<br> I'm Husain Rahmani From Indonesia </h1>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
