@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Husain Rahmani</h1>
+<h1 align="center">Hi there, I'm Husain Rahmani 👋</h1>
 <h3 align="center">I'm from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -6,8 +6,6 @@
 
 
 - 🌱 I’m currently learning **Laravel and Vue**
-
-- 👨‍💻 All of my projects are available at [https://husainrahmani.vercel.app/](https://husainrahmani.vercel.app/)
 
 - 💬 Ask me about **Laravel**
 
